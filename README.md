@@ -1,8 +1,16 @@
 # Portfolio
 Hi there. Welcome to my hub.
 
-I've outlined projects & exercises that I have worked on my own that could be a good representation of my skillset.
- 
-If there is anything else you want to see that could showcase a specific skill you're looking for, please reach e-mail me at [wkyungt@gmail.com](url)
+I've outlined couple of projects that I have worked on for your reference. 
 
-Thank you! 
+# [Project 1: Predicting Used Car Prices]()
+* Used linear regression, ridge/lasso regression, decision trees, random forest to compare across different models and identify best performing model
+* Linear regression performed the best out of the other models
+* Recommended ways to improve model accuracy (e.g. collecting data more relevant to purchasers)
+
+# [Project 2: Predicting House Prices & Cancellation of hotel bookings](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_Boston_house_prices_%26_predicting_cancellation_of_hotel_bookings)
+* The first part of this project involves predicting house prices in the Boston area based on the features of the locality using regression techniques. 
+* The second part involves predicting booking cancellations based on booking details and helping formulate profitable policies for cancellations and refunds.
+* Used Linear Regression, Logistic Regression, kNN
+
+# [Project 3: 
