@@ -24,7 +24,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used Rank Based Recommendation Systems, Similarity Based Recommendation Systems, Matrix Factorization Based Recommendation Systems
 
 ![](https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.42.18.png)
-<img src="https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.42.18.png" width=50% height=50%>
+<img src="images/Screen Shot 2022-05-04 at 17.42.18.png" width=50% height=50%>
 
 # [Project 4: Predicting Used Car Prices](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_UsedCar_Prices)
 * Used linear regression, ridge/lasso regression, decision trees, random forest to compare across different models and identify best performing model
@@ -32,4 +32,4 @@ I've outlined couple of projects that I have worked on for your reference.
 * Recommended ways to improve model accuracy (e.g. collecting data more relevant to purchasers)
 
 ![](https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.47.png)
-<img src="https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.47.png" width=60% height=60%>
+<img src="images/Screen Shot 2022-05-04 at 17.24.47.png" width=60% height=60%>
