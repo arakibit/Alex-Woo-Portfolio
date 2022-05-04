@@ -20,6 +20,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * This project involves recommending the best amazon products available to the users by using some recommendation systems techniques.
 * Used Rank Based Recommendation Systems, Similarity Based Recommendation Systems, Matrix Factorization Based Recommendation Systems
 
+![](https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.42.18.png)
 <img src="https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.42.18.png" width=50% height=50%>
 
 # [Project 4: Predicting Used Car Prices](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_UsedCar_Prices)
@@ -27,4 +28,5 @@ I've outlined couple of projects that I have worked on for your reference.
 * Linear regression performed the best out of the other models
 * Recommended ways to improve model accuracy (e.g. collecting data more relevant to purchasers)
 
+![](https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.47.png)
 <img src="https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.47.png" width=60% height=60%>
