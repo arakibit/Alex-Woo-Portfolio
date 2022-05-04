@@ -6,7 +6,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Involves segmenting the bank customers to help the bank upgrading the service delivery model and ensure that customers queries are resolved faster
 * Used EDA, Clustering
 
-<img src="https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png" width=70% height=70%>
+![](https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png)
 
 # [Project 2: Cancellation of hotel bookings](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_Hotel_Cancellation_Rates)
 * The first part of this project involves predicting house prices in the Boston area based on the features of the locality using regression techniques. 
