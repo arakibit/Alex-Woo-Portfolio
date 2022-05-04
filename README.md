@@ -13,7 +13,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * The second part involves predicting booking cancellations based on booking details and helping formulate profitable policies for cancellations and refunds.
 * Used Linear Regression, Logistic Regression, kNN
 
-<img src="https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.25.png" width=70% height=70%>
+![](https://github.com/arakibit/portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.25.png)
 
 
 # [Project 3: Amazon Product Recommendation System](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Amazon_Recommendation_System)
