@@ -7,6 +7,8 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used EDA, Clustering
 
 ![](https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png)
+<img src="https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png" width=60% height=60%>
+
 
 # [Project 2: Cancellation of hotel bookings](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_Hotel_Cancellation_Rates)
 * The first part of this project involves predicting house prices in the Boston area based on the features of the locality using regression techniques. 
@@ -14,6 +16,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used Linear Regression, Logistic Regression, kNN
 
 ![](https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.25.png)
+<img src="https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.24.25.png" width=60% height=60%>
 
 
 # [Project 3: Amazon Product Recommendation System](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Amazon_Recommendation_System)
