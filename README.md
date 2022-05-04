@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Hi there. Welcome to my hub.
 
 I've outlined projects & exercises that I have worked on my own that could be a good representation of my skillset.
