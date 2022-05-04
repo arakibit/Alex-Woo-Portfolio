@@ -7,7 +7,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used EDA, Clustering
 
 ![](https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png)
-<img src="https://github.com/arakibit/Alex-Woo-Portfolio/blob/main/images/Screen%20Shot%202022-05-04%20at%2017.54.35.png" width=60% height=60%>
+<img src="images/Screen Shot 2022-05-04 at 17.24.25.png" width=60% height=60%>
 
 
 # [Project 2: Cancellation of hotel bookings](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_Hotel_Cancellation_Rates)
