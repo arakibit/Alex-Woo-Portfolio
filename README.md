@@ -7,7 +7,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used EDA, Clustering
 
 ![](images/cluster1.png)
-<img src="images/cluster1.png" width=60% height=60%>
+
 
 
 # [Project 2: Cancellation of hotel bookings](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_Hotel_Cancellation_Rates)
@@ -16,7 +16,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used Linear Regression, Logistic Regression, kNN
 
 ![](images/hotelcancel.png)
-<img src="images/hotelcancel.png" width=60% height=60%>
+
 
 
 # [Project 3: Amazon Product Recommendation System](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Amazon_Recommendation_System)
@@ -24,7 +24,7 @@ I've outlined couple of projects that I have worked on for your reference.
 * Used Rank Based Recommendation Systems, Similarity Based Recommendation Systems, Matrix Factorization Based Recommendation Systems
 
 ![](images/amznrecc1.png)
-<img src="images/amznrecc1.png" width=50% height=50%>
+
 
 # [Project 4: Predicting Used Car Prices](https://github.com/arakibit/portfolio/tree/main/Data%20Science/Projects/Predicting_UsedCar_Prices)
 * Used linear regression, ridge/lasso regression, decision trees, random forest to compare across different models and identify best performing model
@@ -32,4 +32,4 @@ I've outlined couple of projects that I have worked on for your reference.
 * Recommended ways to improve model accuracy (e.g. collecting data more relevant to purchasers)
 
 ![](images/usedcar1.png)
-<img src="images/usedcar1.png" width=60% height=60%>
+
